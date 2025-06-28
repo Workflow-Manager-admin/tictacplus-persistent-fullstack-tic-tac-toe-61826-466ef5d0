@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/tictacplus-persistent-fullstack-tic-tac-toe-61826-466ef5d0/tic_tac_toe_backend"
+}
